@@ -1,0 +1,17 @@
+Brocali: A Literal function library
+
+to compile, enter the following commands (TESTED ON UNIX)
+
+
+    $ cd commands
+    $ compiler.1 -compile <file>.c
+
+
+All of the libraries are stored in ./commands/lib
+i'm not implementing any sort of C libraries.
+
+send a PR if you want to create your own library.
+
+
+
+(the source for the netexec GET utility is not open)
